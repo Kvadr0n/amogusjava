@@ -7,6 +7,9 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
 
+/**
+ * Класс игровой сцены.
+ */
 public class Scene
 {
     public Scene(String path, HashMap<String, Integer> actResp, LinkedList<Item> inventory) throws IOException

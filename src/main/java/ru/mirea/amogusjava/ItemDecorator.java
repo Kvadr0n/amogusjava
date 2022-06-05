@@ -1,5 +1,8 @@
 package ru.mirea.amogusjava;
 
+/**
+ * Декоратор для предмета.
+ */
 public class ItemDecorator implements Item
 {
     Item item;

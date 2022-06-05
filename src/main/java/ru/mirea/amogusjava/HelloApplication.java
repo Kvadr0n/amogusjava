@@ -10,12 +10,18 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 //НОВОВВЕДЕНИЯ: проект завершён
+/**
+ * Перечисления для типов предмета: T - подбираемый, NT - неподбираемый.
+ */
 enum type
 {
     T,
     NT
 }
 
+/**
+ * Класс, осуществляющий взаимодействие игрока с игрой.
+ */
 public class HelloApplication
 {
     public static LinkedList<String> actual = new LinkedList<>();

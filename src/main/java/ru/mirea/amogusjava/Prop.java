@@ -2,6 +2,9 @@ package ru.mirea.amogusjava;
 
 import java.util.HashMap;
 
+/**
+ * Класс предмета, находящегося на отдельной игровой сцене.
+ */
 public class Prop implements Item
 {
     public String name;

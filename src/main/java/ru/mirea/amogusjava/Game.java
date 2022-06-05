@@ -11,6 +11,9 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Класс, осуществляющий сборку игры.
+*/
 public class Game
 {
     MusicPlayer Primary;

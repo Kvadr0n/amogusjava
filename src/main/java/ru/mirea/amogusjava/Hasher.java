@@ -1,5 +1,8 @@
 package ru.mirea.amogusjava;
 
+/**
+ * Класс, переводящий некоторые команды в хешкоды, для более быстрого сравнения в классе игры.
+ */
 public class Hasher
 {
     public static void main(String[] args)

@@ -1,5 +1,8 @@
 package ru.mirea.amogusjava;
 
+/**
+ * Интерфейс предмета для взаимодействия.
+ */
 public interface Item
 {
     public String getName();

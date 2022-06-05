@@ -3,6 +3,9 @@ package ru.mirea.amogusjava;
 import javax.sound.sampled.*;
 import java.io.File;
 
+/**
+ * Класс, осуществляющий воспроизведение музыки и звуков.
+ */
 public class MusicPlayer
 {
     public static Clip clip;
