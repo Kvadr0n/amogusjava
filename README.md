@@ -4,5 +4,4 @@
 ## Команда запуска
 
 В корневой папке amogusjava: java -jar AMOGUS2.jar.
-
 **Требуется Java 8+.**
